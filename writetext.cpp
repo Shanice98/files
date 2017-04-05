@@ -16,7 +16,7 @@ int main( )
 
        myfile <<endl<<endl;
       }
-   else
+ com  else
      
       cout << "Error opening abc.txt"<<endl;
    myfile.close();
@@ -24,3 +24,4 @@ int main( )
  
    return 0;
 }
+//2d 36 37 33 30 20 36 38 2e 31 32 33 20 4a a a
